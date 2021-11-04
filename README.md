@@ -1,5 +1,5 @@
 # awesome-git-repo
-Hello this is my awesome repo
+Hi this is the demo repo
 
-just added a line
-just added another line
+this is the first line
+this is the second line
